@@ -1,0 +1,26 @@
+{
+  "base_url": "http://127.0.0.1:8317/",
+  "viewport": {
+    "width": 1440,
+    "height": 1050,
+    "device_scale_factor": 1
+  },
+  "captured_headless": true,
+  "screenshots": [
+    {
+      "file": "1-board.jpg",
+      "route": "#/",
+      "surface": "Bounty board"
+    },
+    {
+      "file": "2-bounty.jpg",
+      "route": "#/bounty/makefun-frontend-01",
+      "surface": "Bounty detail"
+    },
+    {
+      "file": "3-leaderboard.jpg",
+      "route": "#/leaderboard/makefun-frontend-01",
+      "surface": "Leaderboard"
+    }
+  ]
+}
